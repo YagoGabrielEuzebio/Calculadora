@@ -56,6 +56,11 @@
     border-radius: 10px;
 }
 
+.botao:hover {
+    background-color: rgba(3, 3, 3, 0.753);
+    transition: 0.3s ease;
+}
+
 .botao-resultado {
     height: 78px;
 }
